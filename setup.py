@@ -11,7 +11,7 @@ setuptools.setup(
     description = 'Ordinary Kriging Interpolation',
     long_description = long_description,
     long_description_content_type = 'text/markdown',
-    url = '',
+    url = 'https://github.com/ERSSLE/ordinary_kriging',
     packages = setuptools.find_packages(include=['kriging','kriging.*']),
     classifiers = [
         'Programming Language :: Python :: 3',
