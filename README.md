@@ -5,8 +5,8 @@ Ordinary Kriging interpolation is a linear estimation of regionalized variables.
 
 ArcGIS has the implementation of this interpolation method, which is rarely used in Python environment, but this project carries out a simple implementation.
 
-![random](png/random.png)
-![china_temperature](png/china_temperature.png)
+![random](https://github.com/ERSSLE/ordinary_kriging/tree/master/png/random.png)
+![china_temperature](https://github.com/ERSSLE/ordinary_kriging/tree/master/png/china_temperature.png)
 
 # Dependencies
 ***
